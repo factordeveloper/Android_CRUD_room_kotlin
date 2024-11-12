@@ -1,4 +1,4 @@
-package com.example.crud_room_kotlin
+package com.factordev.crud_room_db
 
 interface AdaptadorListener {
     fun onEditItemClick(usuario: Usuario)

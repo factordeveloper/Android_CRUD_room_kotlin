@@ -1,4 +1,4 @@
-package com.example.crud_room_kotlin
+package com.factordev.crud_room_db
 
 import androidx.room.Database
 import androidx.room.RoomDatabase

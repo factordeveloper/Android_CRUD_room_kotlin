@@ -1,4 +1,4 @@
-package com.example.crud_room_kotlin
+package com.factordev.crud_room_db
 
 import android.view.LayoutInflater
 import android.view.View

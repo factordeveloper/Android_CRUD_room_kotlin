@@ -1,4 +1,4 @@
-package com.example.crud_room_kotlin
+package com.factordev.crud_room_db
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,7 +6,7 @@ import android.widget.Toast
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.room.Room
-import com.example.crud_room_kotlin.databinding.ActivityMainBinding
+import com.factordev.crud_room_db.databinding.ActivityMainBinding
 import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity(), AdaptadorListener {
