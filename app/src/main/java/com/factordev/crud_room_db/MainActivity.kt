@@ -7,6 +7,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.room.Room
 import com.factordev.crud_room_db.databinding.ActivityMainBinding
+
 import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity(), AdaptadorListener {

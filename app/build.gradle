@@ -5,11 +5,12 @@ plugins {
 }
 
 android {
-    namespace 'com.example.crud_room_kotlin'
+    namespace 'com.factordev.crud_room_db'
     compileSdk 33
 
+
     defaultConfig {
-        applicationId "com.example.crud_room_kotlin"
+        applicationId "com.factordev.crud_room_kotlin"
         minSdk 21
         targetSdk 33
         versionCode 1
